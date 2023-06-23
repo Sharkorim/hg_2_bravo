@@ -1,3 +1,7 @@
 Repositorio BRAVO (said)
--mauro
--ana
+# Tipo de usuario (said)
+- Mauro
+- Ana
+- 
+  
+
