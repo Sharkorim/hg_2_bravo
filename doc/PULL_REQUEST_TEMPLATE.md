@@ -4,7 +4,7 @@
 - [ ] Charlie
 
 
-# Tecnología a usar:
+# Tecnología a usar
 - [ ] Python 
 - [ ] Markdown
 
