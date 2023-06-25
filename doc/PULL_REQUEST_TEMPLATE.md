@@ -1,15 +1,15 @@
 # Tipo de usuario
 - [ ] Alfa
-- [x] Bravo 
+- [ ] Bravo 
 - [ ] Charlie
 
 
 # Tecnología a usar
-- [x] Python 
+- [ ] Python 
 - [ ] Markdown
 
 # Seleccione el tipo de actividad
-- [x] Feature
+- [ ] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
